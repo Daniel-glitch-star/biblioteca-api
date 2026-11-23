@@ -1,7 +1,5 @@
 # ADR-001. Incorporación del préstamo de laptops
 
-**Estado:** Aceptado  
-**Fecha:** 23 de noviembre de 2026
 
 ## Contexto
 
